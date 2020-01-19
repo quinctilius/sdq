@@ -6,3 +6,5 @@
         Even graphed?
 4) Store individual scores/output
 5) Store to master database
+
+#updated to Github feature request
