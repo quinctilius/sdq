@@ -1,0 +1,8 @@
+#Features
+
+1) Scoring individual reports
+2) Generate predcitions of problems
+3) Compare to UK norms (for age or parent)
+        Even graphed?
+4) Store individual scores/output
+5) Store to master database
